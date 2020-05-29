@@ -16,3 +16,8 @@ docker-compose build
 # Run API
 docker-compose up
 ```
+
+## Initial Login
+
+### Email:    test@email.com
+### Password: 12345678
